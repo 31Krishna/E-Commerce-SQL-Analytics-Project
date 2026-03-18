@@ -82,14 +82,6 @@ This project demonstrates how SQL can be used to transform raw transactional dat
 
 ---
 
-## 🚀 Future Improvements
-
-* Build a Power BI dashboard for visualization
-* Perform cohort analysis for retention tracking
-* Integrate real-world large-scale datasets
-
----
-
 ## 📎 Author
 
 **Krishna Tiwari**

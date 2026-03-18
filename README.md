@@ -1,15 +1,21 @@
 # 🛒 E-Commerce SQL Analytics Project
 
+🎯 Project Objective
+The objective of this project is to analyze e-commerce transactional data using SQL and derive actionable insights on customer behavior, revenue trends, and business performance.
+This project demonstrates end-to-end data analysis — from raw data querying using SQL to business insight visualization using Power BI.
+
 ## 📌 Overview
 
 This project focuses on analyzing e-commerce transactional data using SQL to extract meaningful business insights. The goal is to understand customer behavior, revenue patterns, and key business metrics to support data-driven decision-making.
 
 ---
 
-## 🧰 Tools & Technologies
-
-* PostgreSQL
-* SQL (Joins, Aggregations, CTEs, Window Functions)
+## 🧠 Key Skills Demonstrated
+- SQL (Joins, CTEs, Window Functions)
+- Data Cleaning & Transformation
+- RFM Analysis & Customer Segmentation
+- Business Insight Generation
+- Data Visualization (Power BI)
 
 ---
 
